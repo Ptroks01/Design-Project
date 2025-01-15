@@ -1,0 +1,26 @@
+body {
+    color: aliceblue;
+    background-color: darkblue;
+}
+.p1 {
+    text-align: center;
+    font-size: 65px;
+}
+#kolo {
+    width: 700px;
+    height: 400px;
+}
+.p2 {
+    color: aliceblue;
+    position: relative;
+    left: 725px;
+    bottom: 420px;
+    font-size: 35px;
+}
+.p3 {
+    color: aliceblue;
+    position: relative;
+    bottom: 890px;
+    left: 175px;
+    font-size: 35px;
+}

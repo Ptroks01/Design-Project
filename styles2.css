@@ -1,0 +1,60 @@
+body {
+    background-color: darkblue;
+    color: aliceblue;
+}
+.p1 {
+    text-align: center;
+    font-size: 65px;
+}
+#real {
+    width: 600px;
+    height: 390px;
+    position: relative;
+}
+#barcel {
+    width: 600px;
+    height: 390px;
+    position: relative;
+    left: 475px;
+}
+#man {
+    width: 600px;
+    height: 390px;
+    position: relative;
+    top: 200px;
+}
+#liver {
+    width: 600px;
+    height: 390px;
+    position: relative;
+    top: 200px;
+    left: 475px;
+}
+.p2 {
+    font-size: 50px;
+    color: aliceblue;
+    bottom: 425px;
+    position: relative;
+    left: 150px;
+}
+.p3 {
+    font-size: 50px;
+    color: aliceblue;
+    position: relative;
+    bottom: 537px;
+    left: 1300px;
+}
+.p4 {
+    font-size: 50px;
+    color: aliceblue;
+    position: relative;
+    left: 130px;
+    bottom: 40px;
+}
+.p5 {
+    font-size: 50px;
+    color: aliceblue;
+    position: relative;
+    bottom: 146px;
+    left: 1275px;
+}
