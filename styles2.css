@@ -2,6 +2,7 @@ body {
     background-color: darkblue;
     color: aliceblue;
 }
+/*I edited the body's color and background color*/
 .p1 {
     text-align: center;
     font-size: 65px;
@@ -58,3 +59,5 @@ body {
     bottom: 146px;
     left: 1275px;
 }
+/*I added some images and modified their height, width, etc.*/
+/*I added some paragraphs and modified their color, font-size, etc.*/

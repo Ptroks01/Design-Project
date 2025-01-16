@@ -10,6 +10,7 @@ table {
     position: relative;
     text-align: center;          
 }
+/*I made a table for the 5 pages of my website and edited the color, font, etc.*/
 #Ball {
     position: relative;
     left: 3320px;
@@ -141,5 +142,7 @@ td>a {
     font-size: 35px;
     left: 3270px;
 }
+/*I made and pasted images of soccer players and games and edited their width, heigth, etc.*/
+/*I made paragraphs describing each one of the images and edited their color, font-size, etc.*/
     
 
